@@ -9,4 +9,4 @@
 
 Основной репозиторий для выполнения задания:
 
-https://github.com/1exSus/rsschool-landing-page
+[https://github.com/1exSus/rsschool-landing-page](https://github.com/1exSus/rsschool-landing-page/pull/2)
